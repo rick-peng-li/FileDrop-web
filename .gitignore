@@ -4,7 +4,8 @@ node_modules/
 .pnp.js
 .yarn/
 
-# Next.js 构建产物
+# 构建产物
+dist/
 .next/
 out/
 build/
